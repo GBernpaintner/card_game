@@ -1,3 +1,6 @@
+from random import randint
+
+
 def roll(*, state):
     '''Returns the new state after rolling the unkept dice.'''
     values = [randint(1,6) if not keep else x for x, keep in zip(state['values'], state['kept'])]

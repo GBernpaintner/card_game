@@ -1,4 +1,3 @@
-from random import randint
 from urllib.parse import urlparse
 
 from flask import Flask, render_template, request, url_for, redirect

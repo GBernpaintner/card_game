@@ -10,5 +10,5 @@ När repon finns på servern, kom ihåg att (i root directoryn)
     pip install -r requirements.txt
 4. stoppa in "host="<din host ip>" som argument i app.run(...) i yatzy.py
 
-Sen är det bara att starta den med python yatzy.py
+Sen är det bara att starta den med python main.py
 
