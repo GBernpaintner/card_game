@@ -1,4 +1,4 @@
-# yatzy
+# Card Game
 Till Pappa och Sara
 
 När repon finns på servern, kom ihåg att (i root directoryn)
